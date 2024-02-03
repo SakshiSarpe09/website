@@ -1,0 +1,53 @@
+.container
+{
+    /* border: 2px solid black; */
+    color: rgb(187, 53, 53);
+}
+.header{
+    /* width: 100%; */
+    background-color: darkcyan;
+    color: white;
+}
+.menu
+{
+    background-color: chartreuse;
+    height: 50px;
+   
+    font-weight: bolder;
+
+}
+.menu a{
+    color: darkgreen;
+    padding:20px;
+    text-decoration: none;
+    line-height: 50px;
+}
+.slider{
+    /* height: 200px; */
+    width: 100%;
+}
+.slider img{
+    
+    width: 100%;
+ 
+} 
+.main-cont {
+
+    height: 250px;
+    width: 100%;
+    background-color: darkgray;
+}
+
+.main-cont .sidebar{
+  height: 250px;
+  width: 20%;
+  background-color: lawngreen;
+  color: black;
+}
+
+.main-cont .contents{
+    height: 250px;
+  width: 79%;
+  background-color: darkcyan;
+  color: white;
+}
